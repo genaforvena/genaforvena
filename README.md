@@ -7,7 +7,7 @@ filing. I am after the other thing.
 
 **To always win, aim to lose.** Genet's arithmetic. Most of what is here is a
 carefully built failure that pays better than the success would have.
-[`Finnegans-Fake`](https://github.com/genaforvena/Finnegans-Fake) is a
+- [`Finnegans-Fake`](https://github.com/genaforvena/Finnegans-Fake) is a
 post-mortem on a replica that never happened, and it is the best thing in it.
 
 **Be careful and reckless.** Both, same afternoon. Careful with the material,
@@ -27,24 +27,25 @@ Bodies without organs, but with a Makefile.
 ---
 
 **noise → sense**
-[grainneukeln](https://github.com/genaforvena/grainneukeln) ·
-[screwdriver](https://github.com/genaforvena/screwdriver) ·
-[funky_to_ashes_voice](https://github.com/genaforvena/funky_to_ashes_voice)
+- [grainneukeln](https://github.com/genaforvena/grainneukeln) — a granular sampler that hallucinates a beat in anything and grinds it into a new track
+- [screwdriver](https://github.com/genaforvena/screwdriver) — real-time terminal workbench for chopping and screwing audio
+- [funky_to_ashes_voice](https://github.com/genaforvena/funky_to_ashes_voice) — pulls the instrumental bleeding through a voice out into the open
 
 **sense → noise**
-[skiffs](https://github.com/genaforvena/skiffs) ·
-[the_soft_delerizome_machine_a_thousand_guattaris](https://github.com/genaforvena/the_soft_delerizome_machine_a_thousand_guattaris) ·
-[hidden_language_of_silence](https://github.com/genaforvena/hidden_language_of_silence) ·
-[translator](https://github.com/genaforvena/translator)
+- [skiffs](https://github.com/genaforvena/skiffs) — a modular LM architecture built to make Khlebnikov's *Bobeobi* sing
+- [the_soft_delerizome_machine](https://github.com/genaforvena/the_soft_delerizome_machine_a_thousand_guattaris) — GPT-2 fine-tuned into a thousand Guattaris
+- [hidden_language_of_silence](https://github.com/genaforvena/hidden_language_of_silence) — a writing system that is incomplete on purpose
+- [translator](https://github.com/genaforvena/translator) — LLMs put to translating Russian novels; the target is Masodov
+- [Finnegans-Fake](https://github.com/genaforvena/Finnegans-Fake) — post-mortem on a failed LLM replica of *Finnegans Wake*
 
 **looking back at what looks at you**
-[self-adint](https://github.com/genaforvena/self-adint) ·
-[watching_u_watching](https://github.com/genaforvena/watching_u_watching) ·
-[ghost_hosts](https://github.com/genaforvena/ghost_hosts)
+- [self-adint](https://github.com/genaforvena/self-adint) — read your own ad profile from the demand side: what a bid request tells a buyer about your phone
+- [watching_u_watching](https://github.com/genaforvena/watching_u_watching) — a correspondence-study framework for auditing bias in the systems that sort you
+- [ghost_hosts](https://github.com/genaforvena/ghost_hosts) — tracking employers who advertise jobs that do not exist
 
 **an organism made of cheap machines**
-[lte-workstation](https://github.com/genaforvena/lte-workstation) ·
-[mesh-uxn-core](https://github.com/genaforvena/mesh-uxn-core)
+- [lte-workstation](https://github.com/genaforvena/lte-workstation) — an autopoietic kefir for computing machines: old phones and one desktop kept alive as one body
+- [mesh-uxn-core](https://github.com/genaforvena/mesh-uxn-core) — its reflexes as tiny Uxn ROMs, identical on x86 and a 32-bit phone
 
 ---
 
