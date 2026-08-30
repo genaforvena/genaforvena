@@ -1,27 +1,40 @@
-### Capture a flow, cut it, make it flee
+It starts with a sampler that lies. [**grainneukeln**](https://github.com/genaforvena/grainneukeln)
+never asks whether its input has a pulse — it fits one regardless, so rain and white noise come out
+grooving, and it never tells you which regime it was in. Point the same operation at speech and you
+get [**funky_to_ashes_voice**](https://github.com/genaforvena/funky_to_ashes_voice), which rebuilds a
+monologue out of words cut from other people's records and breaks ties by *diversity* rather than
+similarity — the speaker ends up excluded from his own sentence.
 
-- [**grainneukeln**](https://github.com/genaforvena/grainneukeln) — granular sampler. It fits a beat to any input, including inputs that have none — rain, a voice memo, white noise — then rebuilds the material grain by grain against that imagined grid. It never tells you whether the pulse was real.
-- [**funky_to_ashes_voice**](https://github.com/genaforvena/funky_to_ashes_voice) — reassembles a spoken monologue out of words cut from other people's records, breaking ties by *diversity* rather than similarity. The speaker is excluded from his own speech.
+Do it to language and language stops behaving.
+[**skiffs**](https://github.com/genaforvena/skiffs) is an architecture built so a model can sing
+Khlebnikov's *Bobeobi*.
+[**the_soft_delerizome_machine**](https://github.com/genaforvena/the_soft_delerizome_machine_a_thousand_guattaris)
+is GPT-2 fed Guattari, SCUM and Tolstoy until the nonsense comes out philosophical.
+[**translator**](https://github.com/genaforvena/translator) runs Russian novels through a model and
+back again, using the return trip as the editorial signal; the target is Masodov, because he is the
+hardest thing to survive. When it fails you keep the numbers:
+[**Finnegans-Fake**](https://github.com/genaforvena/Finnegans-Fake) is a post-mortem on a replica
+that never happened — 79.4% hapaxes, the tokenizer tearing *penisolate* into pen/is/ol/ate.
+[**hidden_language_of_silence**](https://github.com/genaforvena/hidden_language_of_silence) goes the
+opposite way and subtracts until only the length of each word survives: the writer supplies rhythm,
+the reader hallucinates the meaning.
 
-### Make language stutter
+Then the instruments turn around and look at what is looking at you.
+[**self-adint**](https://github.com/genaforvena/self-adint) reads your own advertising profile from
+the demand side — what a real-time bid request hands a buyer about your phone, for free — and
+[**watching_u_watching**](https://github.com/genaforvena/watching_u_watching) sends matched fake
+applications into the systems that sort people, which is how it ended up naming three ways a model
+falls apart under a long conversation: competence collapse, task derailment, contextual amnesia.
 
-- [**skiffs**](https://github.com/genaforvena/skiffs) — modular language-model architecture built to make Khlebnikov's *Bobeobi* sing.
-- [**the_soft_delerizome_machine**](https://github.com/genaforvena/the_soft_delerizome_machine_a_thousand_guattaris) — GPT-2 fine-tuned on Guattari, SCUM and Tolstoy to produce philosophical nonsense.
-- [**translator**](https://github.com/genaforvena/translator) — LLM pipeline translating Russian novels, with a round-trip back into Russian as the editorial signal. The target is Masodov.
-- [**Finnegans-Fake**](https://github.com/genaforvena/Finnegans-Fake) — post-mortem on a failed replica of *Finnegans Wake*, with the negative result measured: 79.4% hapaxes, and the tokenizer tearing *penisolate* into pen/is/ol/ate.
-- [**hidden_language_of_silence**](https://github.com/genaforvena/hidden_language_of_silence) — a writing system that transmits only the *length* of each word. The writer supplies rhythm; the reader hallucinates the meaning.
+All of that needs a machine nobody else administers.
+[**lte-workstation**](https://github.com/genaforvena/lte-workstation) is an autopoietic kefir for
+computing machines — dead phones and one desktop wired into a single organism that senses,
+coordinates, repairs itself and writes down every time it lied — and
+[**mesh-uxn-core**](https://github.com/genaforvena/mesh-uxn-core) compiles its reflexes into Uxn ROMs
+small enough to run byte-identically on x86 and on a 32-bit phone, because host shell rots per
+platform and lies about it.
 
-### Turn the instruments around on the control society
-
-- [**self-adint**](https://github.com/genaforvena/self-adint) — reads your own advertising profile from the demand side: what a real-time bid request hands a buyer about your phone, for free.
-- [**watching_u_watching**](https://github.com/genaforvena/watching_u_watching) — correspondence-study framework for auditing bias in the systems that sort people. Has a Zenodo DOI and a named set of LLM failure modes: competence collapse, task derailment, contextual amnesia.
-
-### Assemble a body from junk
-
-- [**lte-workstation**](https://github.com/genaforvena/lte-workstation) — an autopoietic kefir for computing machines: dead phones and one desktop wired into a single organism that senses, coordinates and repairs itself, and writes down every time it lied.
-- [**mesh-uxn-core**](https://github.com/genaforvena/mesh-uxn-core) — that organism's reflexes as tiny Uxn ROMs, byte-identical on x86 and a 32-bit phone, because host shell rots per platform and lies about it.
-
-### Lines of flight
-
-- [**drunk-walker**](https://github.com/genaforvena/drunk-walker) — blind graph traversal of Google Street View.
-- [**natal_nataly**](https://github.com/genaforvena/natal_nataly) — an astrology companion with pripizdenka.
+Two more exist purely for the pleasure:
+[**drunk-walker**](https://github.com/genaforvena/drunk-walker) walks Google Street View as a blind
+graph, and [**natal_nataly**](https://github.com/genaforvena/natal_nataly) is an astrology companion
+with pripizdenka.
